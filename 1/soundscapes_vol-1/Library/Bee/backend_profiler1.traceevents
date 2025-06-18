@@ -1,0 +1,539 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1740870461796085, "dur":2509, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870461798602, "dur":52, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1740870461798663, "dur":13, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1740870461798676, "dur":552, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1740870461799266, "dur":507, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870461799773, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221167, "dur":357, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221524, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221543, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221547, "dur":25, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221572, "dur":10, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221582, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221587, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221590, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221595, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221597, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221600, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221602, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221608, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221609, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221613, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221615, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221620, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221621, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221625, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221627, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221632, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221634, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221639, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221640, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221646, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221647, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221652, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221653, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221657, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221659, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221664, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221665, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221669, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221688, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462221696, "dur":3233, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1740870461799468, "dur":329, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461799797, "dur":3715, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461803512, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1740870461803739, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461807961, "dur":3170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1740870461811163, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1740870461811308, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461811316, "dur":3247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1740870461814600, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461814790, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461815666, "dur":3952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461819653, "dur":5666, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461825325, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461825338, "dur":5584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461830957, "dur":4903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461835863, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461835871, "dur":5900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461841803, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461841931, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461841938, "dur":4518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461846491, "dur":4691, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461851185, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461851192, "dur":4519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461855743, "dur":4597, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461860343, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461860352, "dur":4329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461864713, "dur":260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461864976, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461865020, "dur":8929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461873995, "dur":92130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461966129, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461966140, "dur":1944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461968120, "dur":941, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461969065, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461969075, "dur":2609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461971716, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461972013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461972020, "dur":9192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461981250, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461981560, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461981568, "dur":3711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1740870461985312, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1740870461985364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461985373, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1740870461986989, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1740870461987105, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870461987112, "dur":10556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1740870461997710, "dur":13584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1740870462011348, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870462011358, "dur":9057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1740870462020463, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1740870462020506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1740870462020517, "dur":23957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1740870462044531, "dur":176630, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870461799468, "dur":318, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870461799786, "dur":3728, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870461803515, "dur":12695, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1740870461816213, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870461816229, "dur":3799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1740870461820061, "dur":6303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461826367, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870461826375, "dur":7274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461833696, "dur":1047, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461834747, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870461834754, "dur":5972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461840766, "dur":4890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461845659, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870461845666, "dur":5505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461851210, "dur":6010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461857223, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870461857231, "dur":5290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461862556, "dur":466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461863025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870461863032, "dur":8424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870461871497, "dur":150182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870462021687, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870462021703, "dur":17876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1740870462039612, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1740870462039970, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1740870462039980, "dur":15741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1740870462055779, "dur":165494, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461799550, "dur":308, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461799858, "dur":3639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461803508, "dur":43569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1740870461847080, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461847732, "dur":2038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1740870461849800, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461849961, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461849968, "dur":5574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461855579, "dur":4762, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461860344, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461860352, "dur":4583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461864966, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461865263, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461865269, "dur":10402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461875707, "dur":95962, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461971673, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461971681, "dur":5201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461976930, "dur":3298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461980234, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461980245, "dur":5762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1740870461986042, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1740870461986082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870461986088, "dur":44641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1740870462030769, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1740870462030808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870462030817, "dur":7681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1740870462038535, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1740870462038571, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870462038580, "dur":2398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1740870462041012, "dur":338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1740870462041353, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1740870462041360, "dur":4993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1740870462046384, "dur":174916, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461799639, "dur":255, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461799894, "dur":3619, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461803513, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1740870461803703, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461808347, "dur":3161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1740870461811540, "dur":2248, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461813793, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461814782, "dur":4714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461819536, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461819675, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461819684, "dur":6662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461826407, "dur":4699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461831109, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461831118, "dur":3287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461834440, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461834584, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461834591, "dur":6176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461840825, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461841009, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461841023, "dur":4020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461845105, "dur":4309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461849418, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461849426, "dur":6144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461855606, "dur":4896, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461860505, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461860512, "dur":5440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461865996, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461866121, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870461866156, "dur":7837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870461874027, "dur":142260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870462016294, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870462016307, "dur":23669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1740870462040041, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1740870462040080, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1740870462040085, "dur":6072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1740870462046198, "dur":174968, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1740870461799482, "dur":321, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1740870461799803, "dur":3697, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1740870461803508, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1740870461803706, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1740870461807959, "dur":3970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1740870461811969, "dur":274466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1740870462086438, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1740870462086448, "dur":11226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1740870462097705, "dur":123514, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461799499, "dur":315, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461799815, "dur":3683, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461803507, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1740870461803706, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461809032, "dur":3703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1740870461812773, "dur":4252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1740870461817029, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461817036, "dur":8725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1740870461825793, "dur":5364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461831160, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461831166, "dur":4634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461835836, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461835985, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461835991, "dur":7628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461843649, "dur":4012, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461847663, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461847670, "dur":5842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461853554, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461853684, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461853694, "dur":4667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461858399, "dur":516, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461858947, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461858956, "dur":4169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461863159, "dur":378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461863539, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870461863545, "dur":6154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870461869777, "dur":284213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870462154038, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1740870462154049, "dur":3366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1740870462157458, "dur":63727, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461799542, "dur":279, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461799821, "dur":3734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461803562, "dur":12515, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1740870461816080, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461816097, "dur":5064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1740870461821233, "dur":6269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461827505, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461827512, "dur":4791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461832339, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461832511, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461832519, "dur":8406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461840983, "dur":5141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461846128, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461846134, "dur":4251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461850419, "dur":4724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461855147, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461855156, "dur":4519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461859717, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461859910, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461859919, "dur":4356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461864312, "dur":585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461864900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461864907, "dur":7356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461872301, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461872444, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870461872454, "dur":64257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870461936749, "dur":199572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870462136327, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1740870462136339, "dur":2854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1740870462139226, "dur":81967, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461799597, "dur":274, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461799871, "dur":3720, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461803591, "dur":12363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1740870461815957, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461815975, "dur":3615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1740870461819629, "dur":7860, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461827495, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461827505, "dur":4820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461832369, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461832517, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461832522, "dur":4854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461837412, "dur":167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461837582, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461837589, "dur":6356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461843993, "dur":220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461844216, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461844222, "dur":2821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461847075, "dur":227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461847305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461847312, "dur":5888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461853236, "dur":4770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461858009, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461858016, "dur":3148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461861198, "dur":362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461861563, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461861607, "dur":6334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461867984, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461868157, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870461868163, "dur":10829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870461879030, "dur":125516, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870462004553, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870462004568, "dur":5322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1740870462009989, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1740870462010067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1740870462010076, "dur":43822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1740870462053937, "dur":167349, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461799634, "dur":250, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461799884, "dur":3658, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461803552, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1740870461803754, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461818153, "dur":3006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1740870461821207, "dur":6484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461827694, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461827701, "dur":5962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461833721, "dur":5954, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461839682, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461839695, "dur":5570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461845295, "dur":219, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461845517, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461845525, "dur":5026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461850602, "dur":4171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461854776, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461854787, "dur":2917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461857736, "dur":4261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461862000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461862007, "dur":6663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461868701, "dur":102435, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461971142, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461971154, "dur":3926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461975122, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461975306, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870461975316, "dur":9198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870461984559, "dur":28290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870462012855, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870462026153, "dur":13769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":9, "ts":1740870462039962, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1740870462039999, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1740870462040005, "dur":13572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1740870462053610, "dur":167695, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461799665, "dur":244, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461799910, "dur":3620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461803541, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1740870461803705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461807627, "dur":2343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1740870461810003, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1740870461810099, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461810105, "dur":4379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1740870461814520, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1740870461814639, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461815923, "dur":10385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1740870461826415, "dur":6947, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870461833367, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461833378, "dur":6407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870461839824, "dur":5895, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870461845722, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461845728, "dur":4365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870461850141, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870461850420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461850427, "dur":7992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870461858467, "dur":6093, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870461864563, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870461864569, "dur":109103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870461973759, "dur":152400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870462126164, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1740870462126174, "dur":1929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1740870462128139, "dur":93063, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461799699, "dur":217, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461799916, "dur":3590, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461803514, "dur":12586, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1740870461816104, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461816120, "dur":2326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1740870461818484, "dur":7077, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461825564, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461825572, "dur":5418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461831020, "dur":5390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461836413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461836420, "dur":6032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461842490, "dur":4943, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461847436, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461847443, "dur":5269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461852747, "dur":5059, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461857809, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461857816, "dur":5534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461863387, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461863537, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461863544, "dur":6581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461870172, "dur":101746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461971921, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461975646, "dur":8579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461984266, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461984451, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461984461, "dur":1807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":11, "ts":1740870461986299, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1740870461986334, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1740870461986340, "dur":77270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1740870462063652, "dur":157595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461799776, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461799777, "dur":3719, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461803508, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1740870461803510, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461803597, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1740870461803634, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461804686, "dur":7006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1740870461811693, "dur":24048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461835744, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461835752, "dur":6121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461841906, "dur":4770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461846679, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461846756, "dur":5707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461852501, "dur":4311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461856816, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461856825, "dur":4320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461861199, "dur":498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461861700, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461861706, "dur":5815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461867559, "dur":826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461868388, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461868394, "dur":60891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461929322, "dur":2152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461931478, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870461931490, "dur":48991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870461980519, "dur":238584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870462219107, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1740870462219117, "dur":1955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1740870462221108, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":12, "ts":1740870462221109, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461799802, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461799803, "dur":3696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461803508, "dur":12406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1740870461815921, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461815942, "dur":3946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1740870461819919, "dur":5476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461825445, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461825452, "dur":5198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461830684, "dur":5111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461835798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461835804, "dur":6427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461842268, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461842395, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461842402, "dur":4487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461846921, "dur":4280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461851204, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461851211, "dur":5955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461857203, "dur":4714, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461861920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461861927, "dur":5586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461867551, "dur":588, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461868142, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870461868173, "dur":57175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870461925396, "dur":244280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870462169683, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1740870462169693, "dur":1720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1740870462171435, "dur":49739, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461799861, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461799861, "dur":3703, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461803568, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1740870461803738, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461807667, "dur":2143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1740870461809843, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1740870461810025, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461810035, "dur":2825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1740870461812893, "dur":4788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes.exe" }}
+,{ "pid":12345, "tid":14, "ts":1740870461817684, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461817690, "dur":5055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes.exe" }}
+,{ "pid":12345, "tid":14, "ts":1740870461822837, "dur":6771, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461829615, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461829626, "dur":4014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461833703, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461833997, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461834005, "dur":7008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461841044, "dur":4582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461845629, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461845635, "dur":5228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461850900, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461851094, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461851103, "dur":5085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461856230, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461856394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461856401, "dur":3730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461860160, "dur":4328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461864491, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870461864501, "dur":7090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870461871621, "dur":228764, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870462100391, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1740870462100402, "dur":1651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1740870462102084, "dur":119127, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461799886, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461799887, "dur":3629, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461803516, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1740870461803745, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461816205, "dur":9338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1740870461825648, "dur":5963, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461831614, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461831622, "dur":4244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461835903, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461836211, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461836217, "dur":7007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461843257, "dur":4156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461847416, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461847424, "dur":6307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461853770, "dur":3993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461857767, "dur":11, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461857786, "dur":4242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461862057, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461862210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461862216, "dur":5819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461868068, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461868387, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461868393, "dur":42628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461911070, "dur":51202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461962278, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870461962291, "dur":3133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870461965459, "dur":70253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870462035718, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1740870462035729, "dur":5412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":15, "ts":1740870462041177, "dur":179995, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461799932, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461799932, "dur":3587, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461803527, "dur":12796, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1740870461816326, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461816340, "dur":3807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1740870461820183, "dur":5323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461825643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461825651, "dur":5749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461831434, "dur":4303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461835742, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461835752, "dur":7930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461843716, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461843942, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461843951, "dur":4547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461848545, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461848684, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461848692, "dur":6048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461854775, "dur":1122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461855928, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461855937, "dur":4390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461860363, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461860518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461860524, "dur":4098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461864656, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461864781, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870461864787, "dur":7343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870461872190, "dur":211553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870462083749, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1740870462083761, "dur":2359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/jnsam/OneDrive/Music/soundscapes/1/standalone/Soundscapes_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":16, "ts":1740870462086168, "dur":135064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1740870462228169, "dur":1394, "ph":"X", "name": "ProfilerWriteOutput" }
+,
